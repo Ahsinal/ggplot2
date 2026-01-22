@@ -1,0 +1,12 @@
+Name,Age,Residence,Active,Result
+Alice,25,Boston,TRUE,Good
+Bob,65,Boston,FALSE,Bad
+Charlie,23,Boston,TRUE,Bad
+David,28,Raleigh,TRUE,Fantastic
+Emily,24,Berkeley,TRUE,Horrible
+Frank,65,Chicago,FALSE,Good
+George,45,Middletown,TRUE,Good
+Hilda,35,Chicago,TRUE,Good
+Ian,75,Baltimore,FALSE,Neutral
+John,80,Baltimore,FALSE,Horrible
+Kevin,12,Middletown,TRUE ,Fantastic

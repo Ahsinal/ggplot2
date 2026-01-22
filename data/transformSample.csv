@@ -1,0 +1,12 @@
+"Name","Age","Residence","Active","Result","Heights","Weights"
+"Alice",25,"Boston",TRUE,"Good",1.89,82
+"Bob",65,"Boston",FALSE,"Bad",1.62,74
+"Charlie",23,"Boston",TRUE,"Bad",1.75,80
+"David",28,"Raleigh",TRUE,"Fantastic",1.87,52
+"Emily",24,"Berkeley",TRUE,"Horrible",1.6,78
+"Frank",65,"Chicago",FALSE,"Good",1.52,77
+"George",45,"Middletown",TRUE,"Good",1.67,68
+"Hilda",35,"Chicago",TRUE,"Good",1.88,83
+"Ian",75,"Baltimore",FALSE,"Neutral",1.9,61
+"John",80,"Baltimore",FALSE,"Horrible",1.83,73
+"Kevin",12,"Middletown",TRUE,"Fantastic",1.55,51
