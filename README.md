@@ -1,4 +1,11 @@
-# RPractices
-Repository of R scripts for hands‑on practice with the ggplot2 package, focusing on data exploration and creating a variety of publication‑ready visualizations (scatter, boxplot, bar, line, and faceting).
+# ggplot2 R Practice
 
+R programming practice with dplyr and ggplot2
 
+## Files
+- `ggplot.Rproj` - R project file
+- `scripts/` - R scripts for data analysis
+- `data/` - Sample datasets
+
+## Author
+Lanisha Koirala
