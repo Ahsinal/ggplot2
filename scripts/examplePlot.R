@@ -61,7 +61,6 @@ if (!dir.exists(out_dir)) {
 ## 4. Determine script base name for image filename
 ## ------------------------------------------------------------
 
-# Simple fixed base name; change to match your script file name if you like
 script_base <- "exampledemo"
 
 img_file <- file.path(out_dir, paste0(script_base, ".png"))
